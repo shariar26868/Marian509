@@ -1,0 +1,1108 @@
+Final Prompt:
+—-------------------
+The user will enter our website, then take a picture of the room , then select a theme from ( MINIMAL SCANDINAVIAN, THEME - TIMELESS LUXURY, THEME - MODERN LIVIING, THEME - MODERN MEDITERRANEAN, THEME - BOHO ECLECTRCIC), jokhon theme collect korbe tokhon auto matically website gulo niyee nibe, ami website gulo niche diye diboo. Theme select korar por automatically oi website gulo selet hoye jabe, then select room type like(Living Room Furniture,Bedroom Furniture,Dining Room Furniture,Kitchen ,Home OfficeFurniture,Balcony Furniture,Kids Room Furniture,Study Room,guest bedroom), then user have to give room dimention, like length, width, height, it will calculate the squre feet automatic
+
+-----
+Erpor user furniture select korbe , furniture select er somoy user jokhon bed select korbe tokhon bed er option asbe, jee ki type bed nite chay for example(single bed, double bed, etc), thik eivabe jokhn sofa select korbe tokhon dropdown asbe.. Ami nichee diye diyechi jee kontar jonno ki asbe.. Ebong shei onujaii automatically squre feet calculate kore felbeee.
+when a user select room type then , the details or dropdown will appear considering that, list is given below: end user selet korar sathe sathe automatically size calculate hoye jabe. Er jonno tmi chaile json value kore felte paro. Othoba kivabe korle valo hoy, oivabe korte paro. User jokhon room dimention diben ebong onno dike jokhon furniture dimention automatically calculate hoye jabe. Jodi emon hoy jeee total furniture square feet beshi hoye geche room theke , tokhon it will give a message in response that, please deselect one think because the dimension is bigger.
+—-------------------------------------------------------------------------------------------------------------------
+Theme:
+—-------------
+THEME - MINIMAL SCANDINAVIAN :
+https://ethnicraft.com/
+https://kavehome.com/ 
+https://www.nordicnest.com/
+ https://nordicknots.com/ 
+https://swyfthome.com/ 
+www.boconcept.com 
+https://www.zarahome.com/ 
+https://fermliving.com/
+ www.heals.com 
+THEME - TIMELESS LUXURY :
+https://rh.com 
+https://nordicknots.com/ 
+https://www.eichholtz.com/
+ https://loaf.com/ 
+https://portaromana.com/ 
+www.starkcarpet.com
+ www.cultfurniture.com 
+www.dusk.com 
+www.oka.com 
+https://www.pooky.com/ 
+www.radilum.com 
+www.kavehome.com 
+THEME - MODERN LIVIING :
+www.liangandeimil.com
+ https://www.eichholtz.com/
+ https://www.gillmorespace.com/
+ https://nordicknots.com/
+ www.cultfurniture.com 
+www.sohohome.com 
+www.swooneditions.com 
+https://fermliving.com/
+ https://www.heals.com/ 
+www2.hm.com
+ www.made.com
+ www.radilum.com
+ www.heals.com
+ www.ligne-roset.com 
+https://loopandtwist.com/ 
+www.themasie.com
+ www.kavehome.com 
+THEME - MODERN MEDITERRANEAN:
+ https://www.zarahome.com/ 
+https://loopandtwist.com/
+ https://rh.com 
+https://swyfthome.com/ 
+https://nordicknots.com/ 
+www.kavehome.com 
+THEME - BOHO ECLECTRCIC:
+ www.themasie.com 
+www.sklum.com 
+https://loopandtwist.com/ 
+www.dusk.com 
+www.cultfurniture.com
+ https://www.heals.com/
+ www.kavehome.com 
+www.perchandparrow.com
+—------------------------------------------------------------
+
+Room Type:
+—--------------
+
+🛋️ Living Room Furniture – Types, Subtypes, and Sizes (U.S. Standard)
+1️⃣ Sofa
+Subtype
+Typical Size (W × D × H)
+Notes
+Single Seater / Armchair
+36" × 36" × 34" (91 × 91 × 86 cm)
+One person
+Loveseat / Double Seater
+60" × 36" × 34" (152 × 91 × 86 cm)
+Two people
+3-Seater Sofa
+84" × 36" × 34" (213 × 91 × 86 cm)
+Standard family sofa
+Sectional Sofa (L-Shape)
+95–125" × 95" × 34" (241–318 × 241 × 86 cm)
+Corner sofa
+Sectional Sofa (U-Shape)
+120–140" × 95" × 34" (305–356 × 241 × 86 cm)
+Large family / lounge
+Recliner Sofa
+80" × 40" × 40" (203 × 102 × 102 cm)
+Adjustable back and footrest
+Sofa Bed / Sleeper
+80" × 54" × 34" (203 × 137 × 86 cm)
+Converts into a bed
+
+
+2️⃣ Coffee Table
+Subtype
+Typical Size (L × W × H)
+Notes
+Rectangular
+48" × 24" × 18" (122 × 61 × 46 cm)
+Standard
+Square
+36" × 36" × 18" (91 × 91 × 46 cm)
+Compact spaces
+Round
+Ø36" × 18" (Ø91 × 46 cm)
+Cozy setup
+Nesting Table
+24–36" × 24–36" × 18" (61–91 × 61–91 × 46 cm)
+Can stack inside each other
+
+
+3️⃣ TV Stand / Entertainment Unit
+Subtype
+Typical Size (W × D × H)
+Notes
+Small (up to 43" TV)
+36" × 16" × 20" (91 × 41 × 51 cm)
+Compact setup
+Medium (up to 55" TV)
+48" × 18" × 22" (122 × 46 × 56 cm)
+Standard
+Large (up to 75" TV)
+60–72" × 18" × 24" (152–183 × 46 × 61 cm)
+Family room
+Wall-mounted floating unit
+Custom width 48–72"
+Mountable on wall
+
+
+4️⃣ Wall Shelves / Floating Shelves
+Subtype
+Typical Size (L × D × H)
+Notes
+Single Floating Shelf
+36" × 10" × 1.5" (91 × 25 × 4 cm)
+For small decor
+Multi-tier Shelf
+48" × 12" × 3" (122 × 30 × 8 cm)
+Multiple layers
+Corner Shelf
+12–24" per side
+Fits room corners
+Wall-mounted Rack
+48" × 10–12" × 12" (122 × 25–30 × 30 cm)
+For books / decor
+
+
+5️⃣ Side Table / End Table
+Subtype
+Typical Size (L × W × H)
+Notes
+Standard End Table
+20" × 20" × 24" (51 × 51 × 61 cm)
+Beside sofa
+Nesting Tables
+24–30" × 24–30" × 18–24" (61–76 × 61–76 × 46–61 cm)
+Stackable
+Round Side Table
+Ø20" × 24" (Ø51 × 61 cm)
+Compact setup
+
+
+6️⃣ Floor Lamp / Table Lamp
+Subtype
+Typical Size
+Notes
+Floor Lamp
+60–72" H (152–183 cm)
+Freestanding
+Table Lamp
+24–30" H (61–76 cm)
+On side table / desk
+Arc Lamp
+72–84" H (183–213 cm)
+Arched arm over sofa
+
+
+7️⃣ Bookshelf / Display Rack
+Subtype
+Typical Size (W × D × H)
+Notes
+Standard Bookshelf
+30–36" × 12" × 72" (76–91 × 30 × 183 cm)
+5–6 shelves
+Corner Bookshelf
+24–30" per side × 72" H
+Fits corners
+Ladder Shelf
+24" × 12" × 60–72" (61 × 30 × 152–183 cm)
+Open design
+Cube Storage
+12" × 12" × 36–48" (30 × 30 × 91–122 cm)
+Modular cubes
+
+
+8️⃣ Shoe Rack
+Subtype
+Typical Size (W × D × H)
+Notes
+2-Tier Shoe Rack
+24" × 12" × 18" (61 × 30 × 46 cm)
+Small
+3–4 Tier Rack
+36" × 12" × 36" (91 × 30 × 91 cm)
+Medium
+Bench Shoe Rack
+48" × 16" × 18" (122 × 41 × 46 cm)
+Can sit on top
+
+
+9️⃣ Armchair / Lounge Chair
+Subtype
+Typical Size (W × D × H)
+Notes
+Standard Armchair
+36" × 36" × 34" (91 × 91 × 86 cm)
+Single seat
+Recliner
+40" × 36" × 40" (102 × 91 × 102 cm)
+Adjustable
+Lounge Chair
+30–36" × 30–36" × 32–34" (76–91 × 76–91 × 81–86 cm)
+Comfortable
+
+
+10️⃣ Wall Art / Decorative Frame
+Subtype
+Typical Size (W × H)
+Notes
+Small Frame
+12" × 16" (30 × 41 cm)
+Wall decor
+Medium Frame
+18" × 24" (46 × 61 cm)
+Standard
+Large Frame / Canvas
+24" × 36" (61 × 91 cm)
+Statement piece
+Gallery Set
+12–24" frames
+Multiple pieces
+
+
+11️⃣ Carpet / Rug
+Subtype
+Typical Size (W × L)
+Notes
+Small Rug
+3' × 5' (91 × 152 cm)
+Accent
+Medium Rug
+5' × 8' (152 × 244 cm)
+Standard living room
+Large Rug
+8' × 10' (244 × 305 cm)
+Big area coverage
+Runner
+2' × 6–12' (61 × 183–366 cm)
+Hallway / narrow space
+
+
+12️⃣ Bean Bag
+Subtype
+Typical Size (W × D × H)
+Notes
+Small
+30" × 30" × 24" (76 × 76 × 61 cm)
+Kids or small adults
+Medium
+36" × 36" × 28" (91 × 91 × 71 cm)
+Standard
+Large
+48" × 48" × 36" (122 × 122 × 91 cm)
+Big lounge
+
+
+13️⃣ Storage Cabinet / Console Table
+Subtype
+Typical Size (W × D × H)
+Notes
+Console Table
+48" × 16" × 30" (122 × 41 × 76 cm)
+Hallway / behind sofa
+Storage Cabinet
+36"–60" × 16–20" × 30–36" (91–152 × 41–51 × 76–91 cm)
+Closed storage
+Sideboard
+60" × 20" × 36" (152 × 51 × 91 cm)
+Decorative / storage
+
+
+
+
+—------------------------------------------------------------------------------------
+🛏️ Bedroom Furniture – Types, Subtypes, and Sizes (U.S. Standard)
+1️⃣ Bed
+Subtype
+Typical Size (W × D × H)
+Notes
+Twin / Single Bed
+38" × 75" × 25" (97 × 191 × 64 cm)
+Single sleeper
+Twin XL
+38" × 80" × 25" (97 × 203 × 64 cm)
+Taller single sleeper
+Full / Double Bed
+54" × 75" × 25" (137 × 191 × 64 cm)
+Two people
+Full XL
+54" × 80" × 25" (137 × 203 × 64 cm)
+Longer full bed
+Queen Bed
+60" × 80" × 25" (152 × 203 × 64 cm)
+Most common
+King Bed (Eastern King)
+76" × 80" × 25" (193 × 203 × 64 cm)
+Spacious
+California King
+72" × 84" × 25" (183 × 213 × 64 cm)
+Longer and slightly narrower
+Bunk Bed
+Twin: 38" × 75" × 65" (97 × 191 × 165 cm)
+Kids / shared rooms
+Daybed / Trundle Bed
+39" × 75" × 25" (99 × 191 × 64 cm)
+Extra bed stored below
+
+
+2️⃣ Nightstand / Bedside Table
+Subtype
+Typical Size (W × D × H)
+Notes
+Standard Nightstand
+18" × 18" × 24" (46 × 46 × 61 cm)
+Next to bed
+Drawer Nightstand
+20" × 18" × 24" (51 × 46 × 61 cm)
+Storage inside
+Floating Wall-mounted
+24" × 12" × 20" (61 × 30 × 51 cm)
+Space-saving
+
+
+3️⃣ Dresser / Chest of Drawers
+Subtype
+Typical Size (W × D × H)
+Notes
+Standard 4-Drawer Dresser
+60" × 20" × 34" (152 × 51 × 86 cm)
+Clothes storage
+Tallboy / High Chest
+36" × 18" × 60" (91 × 46 × 152 cm)
+Vertical storage
+Low Dresser / Wide
+72" × 20" × 30" (183 × 51 × 76 cm)
+For long wall spaces
+Dresser with Mirror
+Same as standard
+Often includes attached mirror
+
+
+4️⃣ Wardrobe / Almira
+Subtype
+Typical Size (W × D × H)
+Notes
+2-Door Wardrobe
+36" × 20" × 72" (91 × 51 × 183 cm)
+Hanging storage
+3-Door Wardrobe
+54" × 20" × 72" (137 × 51 × 183 cm)
+More storage space
+Sliding Door Wardrobe
+60–72" × 24" × 78" (152–183 × 61 × 198 cm)
+Space-saving doors
+Corner Wardrobe
+Varies by layout
+Fits room corners
+
+
+5️⃣ Wall Mirror
+Subtype
+Typical Size (W × H)
+Notes
+Full-length Mirror
+24"–36" × 60" (61–91 × 152 cm)
+Floor-standing or wall-mounted
+Wall-mounted Mirror
+24" × 36" (61 × 91 cm)
+Above dresser or bedside
+Decorative / Accent Mirror
+18" × 24" (46 × 61 cm)
+Adds style to room
+
+
+6️⃣ Additional Bedroom Furniture / Accessories
+Type
+Typical Size
+Notes
+Vanity / Dressing Table
+48–60" × 18–20" × 30" (122–152 × 46–51 × 76 cm)
+With mirror and drawers
+Bench / Storage Chest
+48" × 18" × 18–20" (122 × 46 × 46–51 cm)
+Foot of bed or storage
+Accent Chair
+30–36" × 30–36" × 32–34" (76–91 × 76–91 × 81–86 cm)
+Reading or lounge
+Floating Wall Shelf
+36" × 10" × 6" (91 × 25 × 15 cm)
+Extra storage or decor
+Rug / Carpet
+Small: 3' × 5'; Medium: 5' × 8'; Large: 8' × 10" (91 × 152; 152 × 244; 244 × 305 cm)
+
+
+
+
+
+🍽️ Dining Room Furniture – Types, Subtypes, and Sizes (U.S. Standard)
+1️⃣ Dining Table
+Subtype
+Typical Size (W × D × H)
+Notes
+4-Seater Rectangular
+48" × 30" × 30" (122 × 76 × 76 cm)
+Standard family table
+4-Seater Square
+36" × 36" × 30" (91 × 91 × 76 cm)
+Compact spaces
+6-Seater Rectangular
+60" × 36" × 30" (152 × 91 × 76 cm)
+Standard medium table
+6-Seater Oval
+72" × 42" × 30" (183 × 107 × 76 cm)
+Curved edges, more space
+8-Seater Rectangular
+96" × 42" × 30" (244 × 107 × 76 cm)
+Larger family gatherings
+Round Table (4–6 Seater)
+Ø48"–54" × 30" (122–137 × 76 cm)
+Circular table
+Extendable / Folding Table
+48–72" × 30–36" × 30" (122–183 × 76–91 × 76 cm)
+Flexible size
+
+
+2️⃣ Dining Chair
+Subtype
+Typical Size (W × D × H)
+Notes
+Standard Chair
+18" × 20" × 36" (46 × 51 × 91 cm)
+Dining height 18–20" seat
+Armchair / Captains Chair
+20" × 22" × 36" (51 × 56 × 91 cm)
+With armrests
+Counter Height Chair / Bar Stool
+Seat 28–30" H (71–76 cm)
+For bar or high table
+Side Chair
+18" × 18" × 36" (46 × 46 × 91 cm)
+Armless, lightweight
+
+
+3️⃣ Sideboard / Buffet Table
+Subtype
+Typical Size (W × D × H)
+Notes
+Standard Buffet
+60" × 20" × 36" (152 × 51 × 91 cm)
+Storage & serving surface
+Low Sideboard
+48" × 16" × 30" (122 × 41 × 76 cm)
+Smaller space
+High Sideboard / Hutch
+60" × 18–20" × 72" (152 × 46–51 × 183 cm)
+Includes upper cabinet for display
+Console Style
+48" × 14" × 32" (122 × 36 × 81 cm)
+Narrow hallway use
+
+
+4️⃣ Bar Cabinet / Bar Counter
+Subtype
+Typical Size (W × D × H)
+Notes
+Standard Bar Cabinet
+48" × 18" × 42" (122 × 46 × 107 cm)
+Storage for drinks
+Counter Height Bar
+48" × 18" × 36" (122 × 46 × 91 cm)
+Standard counter top
+Mini Bar / Side Bar
+36" × 14" × 40" (91 × 36 × 102 cm)
+Small space use
+Bar Cart / Trolley
+36" × 18" × 36" (91 × 46 × 91 cm)
+Movable bar station
+
+
+
+🍳 Kitchen Furniture – Types, Subtypes, and Sizes (U.S. Standard)
+1️⃣ Kitchen Base Cabinets
+Subtype
+Typical Size (W × D × H)
+Notes
+Standard Base Cabinet
+24" × 24" × 34.5" (61 × 61 × 88 cm)
+Standard countertop height
+Sink Base Cabinet
+36" × 24" × 34.5" (91 × 61 × 88 cm)
+Space for sink
+Corner Base Cabinet
+36" × 36" × 34.5" (91 × 91 × 88 cm)
+L-shaped kitchen corner
+Drawer Base Cabinet
+24" × 24" × 34.5" (61 × 61 × 88 cm)
+Multiple drawers for utensils
+
+
+2️⃣ Wall Cabinets
+Subtype
+Typical Size (W × D × H)
+Notes
+Standard Wall Cabinet
+30" × 12" × 30" (76 × 30 × 76 cm)
+Mounted above countertop
+Tall Wall Cabinet
+36" × 12" × 42" (91 × 30 × 107 cm)
+More vertical storage
+Corner Wall Cabinet
+36" × 36" × 30" (91 × 91 × 76 cm)
+Fits L-shaped corners
+Glass Door Cabinet
+30" × 12" × 30" (76 × 30 × 76 cm)
+Display items
+
+
+3️⃣ Kitchen Island / Workstation
+Subtype
+Typical Size (W × D × H)
+Notes
+Standard Kitchen Island
+48" × 24" × 36" (122 × 61 × 91 cm)
+Optional workspace
+Large Kitchen Island
+72" × 36" × 36" (183 × 91 × 91 cm)
+Extra prep/storage space
+Island with Sink
+60" × 36" × 36" (152 × 91 × 91 cm)
+Includes built-in sink
+Mobile / Rolling Island
+36" × 24" × 36" (91 × 61 × 91 cm)
+Can be moved
+
+
+4️⃣ Bar Stool / Counter Stool
+Subtype
+Typical Size
+Notes
+Standard Counter Stool
+Seat Height 28–30" (71–76 cm)
+For counter seating
+Bar Height Stool
+Seat Height 40–42" (102–107 cm)
+For higher bar or island
+Backrest Stool
+Same as above
+Comfortable support
+Backless Stool
+Same as above
+Compact, easy to store
+
+
+5️⃣ Microwave Shelf / Appliance Shelf
+Subtype
+Typical Size (W × D × H)
+Notes
+Countertop Microwave Shelf
+24" × 18" × 12" (61 × 46 × 30 cm)
+Sits on counter
+Wall-mounted Microwave Shelf
+24–30" × 18" × 12–15" (61–76 × 46 × 30–38 cm)
+Mounted to save counter space
+Cabinet Microwave Slot
+24" × 18" × 15" (61 × 46 × 38 cm)
+Built-in kitchen cabinet
+
+
+
+💻 Home Office / Study Furniture – Types, Subtypes, and Sizes (U.S. Standard)
+1️⃣ Office Desk
+Subtype
+Typical Size (W × D × H)
+Notes
+Standard Desk
+48" × 24" × 30" (122 × 61 × 76 cm)
+Standard workspace
+L-Shaped Desk
+60–72" × 48" × 30" (152–183 × 122 × 76 cm)
+Corner desk, more surface
+Executive Desk
+72–84" × 36–40" × 30" (183–213 × 91–102 × 76 cm)
+Large top & drawers
+Compact / Small Desk
+36" × 18" × 30" (91 × 46 × 76 cm)
+For small spaces
+Standing Desk
+Adjustable height 28–48" (71–122 cm)
+Height adjustable
+
+
+2️⃣ Office Chair
+Subtype
+Typical Size (W × D × H)
+Notes
+Standard Task Chair
+24" × 24" × 40" (61 × 61 × 102 cm)
+Adjustable height & swivel
+Ergonomic Chair
+26" × 26" × 42" (66 × 66 × 107 cm)
+Lumbar support
+Executive Chair
+28" × 28" × 45" (71 × 71 × 114 cm)
+Larger, padded
+Guest / Side Chair
+20" × 20" × 36" (51 × 51 × 91 cm)
+For visitors
+Drafting Chair / Stool
+Seat Height 28–34" (71–86 cm)
+For high desks or drafting table
+
+
+3️⃣ Bookshelf / Storage
+Subtype
+Typical Size (W × D × H)
+Notes
+Standard Bookshelf
+30–36" × 12" × 72" (76–91 × 30 × 183 cm)
+5–6 shelves
+Corner Bookshelf
+24–30" per side × 72" H
+Fits room corners
+Ladder Shelf
+24" × 12" × 60–72" (61 × 30 × 152–183 cm)
+Open design
+Cube Storage / Modular Shelf
+12" × 12" × 36–48" (30 × 30 × 91–122 cm)
+Modular cubes for decor & storage
+
+
+4️⃣ File Cabinet / Drawer Unit
+Subtype
+Typical Size (W × D × H)
+Notes
+2-Drawer File Cabinet
+15–18" × 24" × 28" (38–46 × 61 × 71 cm)
+Standard letter/legal files
+3-Drawer Vertical Cabinet
+18" × 24" × 36" (46 × 61 × 91 cm)
+Tall storage
+Mobile / Rolling Drawer
+15–18" × 18–24" × 24–28" (38–46 × 46–61 × 61–71 cm)
+Can be moved under desk
+Lateral File Cabinet
+30–36" × 18" × 28–30" (76–91 × 46 × 71–76 cm)
+Wider, files side-to-side
+
+
+5️⃣ Floating Wall Shelf
+Subtype
+Typical Size (L × D × H)
+Notes
+Single Shelf
+36" × 10" × 6" (91 × 25 × 15 cm)
+Extra storage for books or decor
+Multi-tier Shelf
+48" × 12" × 12" (122 × 30 × 30 cm)
+Multiple layers
+Corner Shelf
+12–24" per side
+Fits corners, space-saving
+Long Floating Shelf
+60" × 10–12" × 6–8" (152 × 25–30 × 15–20 cm)
+For display items
+
+🛏️ Guest Bedroom Furniture – Types, Subtypes, and Sizes (U.S. Standard)
+1️⃣ Bed
+Subtype
+Typical Size (W × D × H)
+Notes
+Full / Double Bed
+54" × 75" × 25" (137 × 191 × 64 cm)
+Good for single guests or couples
+Queen Bed
+60" × 80" × 25" (152 × 203 × 64 cm)
+Most common guest room choice
+Twin Beds (pair)
+38" × 75" × 25" each (97 × 191 × 64 cm)
+Flexible for different guests
+Daybed / Trundle Bed
+39" × 75" × 25" (99 × 191 × 64 cm)
+Space-saving, doubles as seating
+
+2️⃣ Nightstand / Bedside Table
+Subtype
+Typical Size (W × D × H)
+Notes
+Standard Nightstand
+18" × 18" × 24" (46 × 46 × 61 cm)
+One or two beside bed
+Drawer Nightstand
+20" × 18" × 24" (51 × 46 × 61 cm)
+Storage for guest items
+Floating Wall-mounted
+24" × 12" × 20" (61 × 30 × 51 cm)
+Space-saving option
+
+3️⃣ Dresser / Chest of Drawers
+Subtype
+Typical Size (W × D × H)
+Notes
+Standard 4-Drawer Dresser
+60" × 20" × 34" (152 × 51 × 86 cm)
+Guest clothing storage
+Tallboy / High Chest
+36" × 18" × 60" (91 × 46 × 152 cm)
+For smaller rooms
+Low Dresser / Wide
+72" × 20" × 30" (183 × 51 × 76 cm)
+Extra counter space
+
+4️⃣ Wardrobe / Closet
+Subtype
+Typical Size (W × D × H)
+Notes
+2-Door Wardrobe
+36" × 20" × 72" (91 × 51 × 183 cm)
+If no built-in closet
+3-Door Wardrobe
+54" × 20" × 72" (137 × 51 × 183 cm)
+More hanging space
+
+5️⃣ Wall Mirror
+Subtype
+Typical Size (W × H)
+Notes
+Full-length Mirror
+24"–36" × 60" (61–91 × 152 cm)
+Essential for guests
+Wall-mounted Mirror
+24" × 36" (61 × 91 cm)
+Above dresser
+
+6️⃣ Seating
+Subtype
+Typical Size (W × D × H)
+Notes
+Accent Chair
+30–36" × 30–36" × 32–34" (76–91 × 76–91 × 81–86 cm)
+Reading or lounging
+Bench / Storage Chest
+48" × 18" × 18–20" (122 × 46 × 46–51 cm)
+Foot of bed, luggage rack
+
+7️⃣ Desk / Vanity (Optional)
+Type
+Typical Size (W × D × H)
+Notes
+Compact Desk
+36" × 18" × 30" (91 × 46 × 76 cm)
+For work or makeup
+Vanity / Dressing Table
+48–60" × 18–20" × 30" (122–152 × 46–51 × 76 cm)
+With mirror and drawers
+
+8️⃣ Lighting
+Type
+Typical Size
+Notes
+Table Lamp
+24–30" H (61–76 cm)
+On nightstand
+Floor Lamp
+60–72" H (152–183 cm)
+Reading corner
+
+9️⃣ Storage & Decor
+Type
+Typical Size
+Notes
+Floating Wall Shelf
+36" × 10" × 6" (91 × 25 × 15 cm)
+Books or decor
+Rug / Carpet
+Small: 3' × 5'; Medium: 5' × 8' (91 × 152; 152 × 244 cm)
+Comfort and style
+Wall Art / Frame
+Medium: 18" × 24"; Large: 24" × 36" (46 × 61; 61 × 91 cm)
+Welcoming atmosphere
+
+
+🌿 Balcony / Outdoor Furniture – Types, Subtypes, and Sizes (U.S. Standard)
+1️⃣ Balcony Chair
+Subtype
+Typical Size (W × D × H)
+Notes
+Folding Chair
+24" × 24" × 36" (61 × 61 × 91 cm)
+Space-saving, portable
+Plastic / Resin Chair
+24" × 24" × 36" (61 × 61 × 91 cm)
+Lightweight, durable
+Outdoor Armchair
+30" × 30" × 36" (76 × 76 × 91 cm)
+Cushioned, comfortable
+Stackable Chair
+24" × 24" × 36" (61 × 61 × 91 cm)
+Easy to store multiple
+
+
+2️⃣ Small Table / Side Table
+Subtype
+Typical Size (W × D × H)
+Notes
+Square Coffee Table
+24" × 24" × 24" (61 × 61 × 61 cm)
+Compact for balcony
+Round Table
+Ø24" × 24" (Ø61 × 61 cm)
+Casual seating / coffee
+Folding Table
+24" × 24" × 24" (61 × 61 × 61 cm)
+Easy storage
+Side Table with Storage
+24" × 24" × 24" (61 × 61 × 61 cm)
+Extra space inside table
+
+
+3️⃣ Outdoor Sofa / Lounge
+Subtype
+Typical Size (W × D × H)
+Notes
+2-Seater Outdoor Sofa
+60" × 30" × 30" (152 × 76 × 76 cm)
+Small balcony
+3-Seater Outdoor Sofa
+72" × 36" × 30" (183 × 91 × 76 cm)
+Medium space
+Sectional / L-Shaped Outdoor Sofa
+80" × 36" × 30" (203 × 91 × 76 cm)
+Corner lounge
+Chaise Lounge
+72" × 30" × 30" (183 × 76 × 76 cm)
+Reclining style
+
+
+4️⃣ Swing Chair / Hammock
+Subtype
+Typical Size (W × D × H)
+Notes
+Hanging Swing Chair
+40" × 35" × 70" (102 × 89 × 178 cm)
+For one person
+Hammock
+60–80" × 30"–36" × 30" (152–203 × 76–91 × 76 cm)
+Relaxing lie-down
+Hanging Egg Chair
+35" × 35" × 65" (89 × 89 × 165 cm)
+Cozy cocoon style
+Rope or Macrame Swing
+36" × 36" × 70" (91 × 91 × 178 cm)
+Decorative & functional
+
+
+5️⃣ Planter Rack / Shelf
+Subtype
+Typical Size (W × D × H)
+Notes
+Single-tier Planter Shelf
+36" × 12" × 36" (91 × 30 × 91 cm)
+Small plants
+Multi-tier Planter Rack
+36" × 12" × 48" (91 × 30 × 122 cm)
+Vertical gardening
+Hanging Shelf
+24–36" W × 10–12" D
+Wall-mounted, space-saving
+Corner Plant Stand
+24" × 24" × 36" (61 × 61 × 91 cm)
+Fits balcony corner
+
+🧸 Kids Room Furniture – Types, Subtypes, and Sizes (U.S. Standard)
+1️⃣ Bed
+Subtype
+Typical Size (W × D × H)
+Notes
+Twin / Single Bed
+38" × 75" × 25" (97 × 191 × 64 cm)
+Standard kids bed
+Twin XL
+38" × 80" × 25" (97 × 203 × 64 cm)
+For taller kids
+Bunk Bed
+38" × 75" × 65" (97 × 191 × 165 cm)
+Shared rooms / sleepovers
+Loft Bed
+38" × 75" × 72" (97 × 191 × 183 cm)
+Desk or play area underneath
+Trundle Bed
+39" × 75" × 25" (99 × 191 × 64 cm)
+Extra pull-out bed
+
+
+2️⃣ Desk / Study Table
+Subtype
+Typical Size (W × D × H)
+Notes
+Standard Kids Desk
+36" × 18" × 30" (91 × 46 × 76 cm)
+For homework & crafts
+Adjustable Desk
+36–48" × 18–24" × 24–36" (91–122 × 46–61 × 61–91 cm)
+Grows with child
+Corner Desk
+48" × 24" × 30" (122 × 61 × 76 cm)
+Space-saving layout
+Standing / Drafting Desk
+Adjustable 28–48" H (71–122 cm)
+For creative activities
+
+
+3️⃣ Chair / Seating
+Subtype
+Typical Size (W × D × H)
+Notes
+Standard Kids Chair
+14" × 14" × 24" (36 × 36 × 61 cm)
+Seat height 12–14"
+Adjustable Chair
+Seat 12–18" (30–46 cm)
+Height adjustable for desk
+Bean Bag / Floor Cushion
+30" × 30" × 24" (76 × 76 × 61 cm)
+Casual seating
+Rocking Chair
+24" × 24" × 28" (61 × 61 × 71 cm)
+For toddlers
+
+
+4️⃣ Storage / Shelving
+Subtype
+Typical Size (W × D × H)
+Notes
+Toy Chest / Storage Box
+36" × 18" × 18" (91 × 46 × 46 cm)
+Large toys
+Bookshelf
+24" × 12" × 48" (61 × 30 × 122 cm)
+Kid-accessible height
+Cube Organizer
+12" × 12" × 36–48" (30 × 30 × 91–122 cm)
+Modular storage
+Closet / Wardrobe
+36" × 20" × 72" (91 × 51 × 183 cm)
+Hanging clothes
+
+
+5️⃣ Additional / Accessories
+Type
+Typical Size
+Notes
+Nightstand / Bedside Table
+18" × 18" × 24" (46 × 46 × 61 cm)
+For lamp / small items
+Play Table
+24–36" × 24–36" × 18–24" (61–91 × 61–91 × 46–61 cm)
+Activities / crafts
+Wall-mounted Shelf
+24" × 8–10" × 6" (61 × 20–25 × 15 cm)
+For toys / decor
+Rug / Play Mat
+3' × 5' to 5' × 8' (91 × 152 to 152 × 244 cm)
+Soft play area
+
+📚 Study Room / Home Study Furniture – Types, Subtypes, and Sizes (U.S. Standard)
+1️⃣ Desk / Study Table
+Subtype
+Typical Size (W × D × H)
+Notes
+Standard Desk
+48" × 24" × 30" (122 × 61 × 76 cm)
+Workspace for study / laptop
+L-Shaped Desk
+60–72" × 48" × 30" (152–183 × 122 × 76 cm)
+Corner desk, more space
+Adjustable Desk
+36–48" × 18–24" × 24–36" (91–122 × 46–61 × 61–91 cm)
+Height adjustable
+Standing Desk
+Adjustable 28–48" H (71–122 cm)
+For ergonomic setup
+
+
+2️⃣ Chair
+Subtype
+Typical Size (W × D × H)
+Notes
+Standard Office Chair
+24" × 24" × 40" (61 × 61 × 102 cm)
+Adjustable height & swivel
+Ergonomic Chair
+26" × 26" × 42" (66 × 66 × 107 cm)
+Lumbar support
+Guest / Side Chair
+20" × 20" × 36" (51 × 51 × 91 cm)
+For visitors
+Drafting Chair / Stool
+Seat Height 28–34" (71–86 cm)
+For higher desks
+
+
+3️⃣ Storage / Shelving
+Subtype
+Typical Size (W × D × H)
+Notes
+Bookshelf
+30–36" × 12" × 72" (76–91 × 30 × 183 cm)
+Standard vertical storage
+Wall-mounted Floating Shelf
+36" × 10" × 6" (91 × 25 × 15 cm)
+For books / decor
+File Cabinet / Drawer
+18" × 24" × 28" (46 × 61 × 71 cm)
+Document / stationery storage
+Cube / Modular Shelf
+12" × 12" × 36–48" (30 × 30 × 91–122 cm)
+Flexible storage
+
+
+4️⃣ Accessories
+Type
+Typical Size
+Notes
+Desk Lamp
+18–24" H (46–61 cm)
+Adjustable light
+Pinboard / Whiteboard
+24" × 36" (61 × 91 cm)
+Study / notes
+Chair Mat
+36" × 48" (91 × 122 cm)
+Protect floor, easy movement
+
+
+-----------
+user will select - bed ,chair, table. -user can select multiple, then user will give an input of room decor price range. based on the price range , AI will search in the website and find those things and give the furniture link. from the funiture list best furniture based on price, fetch the picture and it will generate a picture , i mean user jei pic ta diyechilo oi pic e furniture pic ta bosate hobe. ekhane akta prompt option thakbe, user bole dite parbe, room er kon pashee funiture ta bosate hobe, user chaile bar bar generate korte parbe. | Replicate API key (for the Stable Diffusion + ControlNet model) to generate realistic room visualizations with the selected furniture and themes.
+
+
+—---------------------
+AI file structure:
+—---------------------
+project_root/
+│
+├── main.py                    # FastAPI entry point
+├── .env                       # API keys, configs
+├── requirements.txt           # Dependencies
+│
+└── ai_backend/
+    │
+    ├── __init__.py
+    │
+    ├── config.py              # Settings & constants
+    │
+    ├── api/
+    │   ├── __init__.py
+    │   ├── room.py            # Room dimension endpoints
+    │   ├── furniture.py       # Furniture selection endpoints
+    │   └── generation.py      # AI generation endpoints
+    │
+    ├── models.py              # All Pydantic models (request/response)
+    │
+    ├── services/
+    │   ├── __init__.py
+    │   ├── dimension.py       # Calculate room/furniture dimensions
+    │   ├── furniture.py       # Search & filter furniture
+    │   ├── ai_generator.py    # Replicate API + image generation
+    │   └── storage.py         # S3 or local image storage
+    │
+    ├── utils.py               # Helper functions
+    │
+    ├── data/
+    │   ├── furniture_data.json    # All furniture with dimensions
+    │   └── prompts.py             # AI prompt templates
+    │
+    └── tests/
+        └── test_api.py        # Basic tests
+
+
+
+Finally response hisebe amra generated picture pabo , user chaile picture bar bar generate korte parbe, prompt diye diye. and all wanted furniture link gulo pabo. Picture store er jonno amra aws s3 bucket use korbo
+------------------------------------------------------------------------------------

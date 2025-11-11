@@ -1,0 +1,356 @@
+{
+  "Living Room Furniture": {
+    "Sofa": {
+      "Single Seater / Armchair": { "width": 36, "depth": 36, "height": 34 },
+      "Loveseat / Double Seater": { "width": 60, "depth": 36, "height": 34 },
+      "3-Seater Sofa": { "width": 84, "depth": 36, "height": 34 },
+      "Sectional Sofa (L-Shape)": { "width": 110, "depth": 95, "height": 34 },
+      "Sectional Sofa (U-Shape)": { "width": 130, "depth": 95, "height": 34 },
+      "Recliner Sofa": { "width": 80, "depth": 40, "height": 40 },
+      "Sofa Bed / Sleeper": { "width": 80, "depth": 54, "height": 34 }
+    },
+    "Coffee Table": {
+      "Rectangular": { "width": 48, "depth": 24, "height": 18 },
+      "Square": { "width": 36, "depth": 36, "height": 18 },
+      "Round": { "width": 36, "depth": 36, "height": 18 },
+      "Nesting Table": { "width": 30, "depth": 30, "height": 18 }
+    },
+    "TV Stand / Entertainment Unit": {
+      "Small (up to 43\" TV)": { "width": 36, "depth": 16, "height": 20 },
+      "Medium (up to 55\" TV)": { "width": 48, "depth": 18, "height": 22 },
+      "Large (up to 75\" TV)": { "width": 66, "depth": 18, "height": 24 },
+      "Wall-mounted floating unit": { "width": 60, "depth": 12, "height": 6 }
+    },
+    "Wall Shelves / Floating Shelves": {
+      "Single Floating Shelf": { "width": 36, "depth": 10, "height": 1.5 },
+      "Multi-tier Shelf": { "width": 48, "depth": 12, "height": 3 },
+      "Corner Shelf": { "width": 18, "depth": 18, "height": 12 },
+      "Wall-mounted Rack": { "width": 48, "depth": 11, "height": 12 }
+    },
+    "Side Table / End Table": {
+      "Standard End Table": { "width": 20, "depth": 20, "height": 24 },
+      "Nesting Tables": { "width": 27, "depth": 27, "height": 21 },
+      "Round Side Table": { "width": 20, "depth": 20, "height": 24 }
+    },
+    "Floor Lamp / Table Lamp": {
+      "Floor Lamp": { "width": 18, "depth": 18, "height": 66 },
+      "Table Lamp": { "width": 12, "depth": 12, "height": 27 },
+      "Arc Lamp": { "width": 24, "depth": 24, "height": 78 }
+    },
+    "Bookshelf / Display Rack": {
+      "Standard Bookshelf": { "width": 33, "depth": 12, "height": 72 },
+      "Corner Bookshelf": { "width": 27, "depth": 27, "height": 72 },
+      "Ladder Shelf": { "width": 24, "depth": 12, "height": 66 },
+      "Cube Storage": { "width": 12, "depth": 12, "height": 42 }
+    },
+    "Shoe Rack": {
+      "2-Tier Shoe Rack": { "width": 24, "depth": 12, "height": 18 },
+      "3–4 Tier Rack": { "width": 36, "depth": 12, "height": 36 },
+      "Bench Shoe Rack": { "width": 48, "depth": 16, "height": 18 }
+    },
+    "Armchair / Lounge Chair": {
+      "Standard Armchair": { "width": 36, "depth": 36, "height": 34 },
+      "Recliner": { "width": 40, "depth": 36, "height": 40 },
+      "Lounge Chair": { "width": 33, "depth": 33, "height": 33 }
+    },
+    "Wall Art / Decorative Frame": {
+      "Small Frame": { "width": 12, "depth": 1, "height": 16 },
+      "Medium Frame": { "width": 18, "depth": 1, "height": 24 },
+      "Large Frame / Canvas": { "width": 24, "depth": 1, "height": 36 },
+      "Gallery Set": { "width": 18, "depth": 1, "height": 24 }
+    },
+    "Carpet / Rug": {
+      "Small Rug": { "width": 36, "depth": 60, "height": 0.5 },
+      "Medium Rug": { "width": 60, "depth": 96, "height": 0.5 },
+      "Large Rug": { "width": 96, "depth": 120, "height": 0.5 },
+      "Runner": { "width": 24, "depth": 84, "height": 0.5 }
+    },
+    "Bean Bag": {
+      "Small": { "width": 30, "depth": 30, "height": 24 },
+      "Medium": { "width": 36, "depth": 36, "height": 28 },
+      "Large": { "width": 48, "depth": 48, "height": 36 }
+    },
+    "Storage Cabinet / Console Table": {
+      "Console Table": { "width": 48, "depth": 16, "height": 30 },
+      "Storage Cabinet": { "width": 48, "depth": 18, "height": 33 },
+      "Sideboard": { "width": 60, "depth": 20, "height": 36 }
+    }
+  },
+
+  "Bedroom Furniture": {
+    "Bed": {
+      "Twin / Single Bed": { "width": 38, "depth": 75, "height": 25 },
+      "Twin XL": { "width": 38, "depth": 80, "height": 25 },
+      "Full / Double Bed": { "width": 54, "depth": 75, "height": 25 },
+      "Full XL": { "width": 54, "depth": 80, "height": 25 },
+      "Queen Bed": { "width": 60, "depth": 80, "height": 25 },
+      "King Bed (Eastern King)": { "width": 76, "depth": 80, "height": 25 },
+      "California King": { "width": 72, "depth": 84, "height": 25 },
+      "Bunk Bed": { "width": 38, "depth": 75, "height": 65 },
+      "Daybed / Trundle Bed": { "width": 39, "depth": 75, "height": 25 }
+    },
+    "Nightstand / Bedside Table": {
+      "Standard Nightstand": { "width": 18, "depth": 18, "height": 24 },
+      "Drawer Nightstand": { "width": 20, "depth": 18, "height": 24 },
+      "Floating Wall-mounted": { "width": 24, "depth": 12, "height": 20 }
+    },
+    "Dresser / Chest of Drawers": {
+      "Standard 4-Drawer Dresser": { "width": 60, "depth": 20, "height": 34 },
+      "Tallboy / High Chest": { "width": 36, "depth": 18, "height": 60 },
+      "Low Dresser / Wide": { "width": 72, "depth": 20, "height": 30 },
+      "Dresser with Mirror": { "width": 60, "depth": 20, "height": 34 }
+    },
+    "Wardrobe / Almira": {
+      "2-Door Wardrobe": { "width": 36, "depth": 20, "height": 72 },
+      "3-Door Wardrobe": { "width": 54, "depth": 20, "height": 72 },
+      "Sliding Door Wardrobe": { "width": 66, "depth": 24, "height": 78 },
+      "Corner Wardrobe": { "width": 40, "depth": 40, "height": 72 }
+    },
+    "Wall Mirror": {
+      "Full-length Mirror": { "width": 30, "depth": 2, "height": 60 },
+      "Wall-mounted Mirror": { "width": 24, "depth": 1, "height": 36 },
+      "Decorative / Accent Mirror": { "width": 18, "depth": 1, "height": 24 }
+    },
+    "Additional Bedroom Furniture / Accessories": {
+      "Vanity / Dressing Table": { "width": 54, "depth": 19, "height": 30 },
+      "Bench / Storage Chest": { "width": 48, "depth": 18, "height": 19 },
+      "Accent Chair": { "width": 33, "depth": 33, "height": 33 },
+      "Floating Wall Shelf": { "width": 36, "depth": 10, "height": 6 },
+      "Rug / Carpet": { "width": 60, "depth": 96, "height": 0.5 }
+    }
+  },
+
+  "Dining Room Furniture": {
+    "Dining Table": {
+      "4-Seater Rectangular": { "width": 48, "depth": 30, "height": 30 },
+      "4-Seater Square": { "width": 36, "depth": 36, "height": 30 },
+      "6-Seater Rectangular": { "width": 60, "depth": 36, "height": 30 },
+      "6-Seater Oval": { "width": 72, "depth": 42, "height": 30 },
+      "8-Seater Rectangular": { "width": 96, "depth": 42, "height": 30 },
+      "Round Table (4–6 Seater)": { "width": 51, "depth": 51, "height": 30 },
+      "Extendable / Folding Table": { "width": 60, "depth": 33, "height": 30 }
+    },
+    "Dining Chair": {
+      "Standard Chair": { "width": 18, "depth": 20, "height": 36 },
+      "Armchair / Captains Chair": { "width": 20, "depth": 22, "height": 36 },
+      "Counter Height Chair / Bar Stool": { "width": 18, "depth": 18, "height": 42 },
+      "Side Chair": { "width": 18, "depth": 18, "height": 36 }
+    },
+    "Sideboard / Buffet Table": {
+      "Standard Buffet": { "width": 60, "depth": 20, "height": 36 },
+      "Low Sideboard": { "width": 48, "depth": 16, "height": 30 },
+      "High Sideboard / Hutch": { "width": 60, "depth": 19, "height": 72 },
+      "Console Style": { "width": 48, "depth": 14, "height": 32 }
+    },
+    "Bar Cabinet / Bar Counter": {
+      "Standard Bar Cabinet": { "width": 48, "depth": 18, "height": 42 },
+      "Counter Height Bar": { "width": 48, "depth": 18, "height": 36 },
+      "Mini Bar / Side Bar": { "width": 36, "depth": 14, "height": 40 },
+      "Bar Cart / Trolley": { "width": 36, "depth": 18, "height": 36 }
+    }
+  },
+
+  "Kitchen Furniture": {
+    "Kitchen Base Cabinets": {
+      "Standard Base Cabinet": { "width": 24, "depth": 24, "height": 34.5 },
+      "Sink Base Cabinet": { "width": 36, "depth": 24, "height": 34.5 },
+      "Corner Base Cabinet": { "width": 36, "depth": 36, "height": 34.5 },
+      "Drawer Base Cabinet": { "width": 24, "depth": 24, "height": 34.5 }
+    },
+    "Wall Cabinets": {
+      "Standard Wall Cabinet": { "width": 30, "depth": 12, "height": 30 },
+      "Tall Wall Cabinet": { "width": 36, "depth": 12, "height": 42 },
+      "Corner Wall Cabinet": { "width": 36, "depth": 36, "height": 30 },
+      "Glass Door Cabinet": { "width": 30, "depth": 12, "height": 30 }
+    },
+    "Kitchen Island / Workstation": {
+      "Standard Kitchen Island": { "width": 48, "depth": 24, "height": 36 },
+      "Large Kitchen Island": { "width": 72, "depth": 36, "height": 36 },
+      "Island with Sink": { "width": 60, "depth": 36, "height": 36 },
+      "Mobile / Rolling Island": { "width": 36, "depth": 24, "height": 36 }
+    },
+    "Bar Stool / Counter Stool": {
+      "Standard Counter Stool": { "width": 18, "depth": 18, "height": 42 },
+      "Bar Height Stool": { "width": 18, "depth": 18, "height": 48 },
+      "Backrest Stool": { "width": 20, "depth": 20, "height": 42 },
+      "Backless Stool": { "width": 16, "depth": 16, "height": 42 }
+    },
+    "Microwave Shelf / Appliance Shelf": {
+      "Countertop Microwave Shelf": { "width": 24, "depth": 18, "height": 12 },
+      "Wall-mounted Microwave Shelf": { "width": 27, "depth": 18, "height": 13.5 },
+      "Cabinet Microwave Slot": { "width": 24, "depth": 18, "height": 15 }
+    }
+  },
+
+  "Home Office Furniture": {
+    "Office Desk": {
+      "Standard Desk": { "width": 48, "depth": 24, "height": 30 },
+      "L-Shaped Desk": { "width": 66, "depth": 48, "height": 30 },
+      "Executive Desk": { "width": 78, "depth": 38, "height": 30 },
+      "Compact / Small Desk": { "width": 36, "depth": 18, "height": 30 },
+      "Standing Desk": { "width": 48, "depth": 24, "height": 38 }
+    },
+    "Office Chair": {
+      "Standard Task Chair": { "width": 24, "depth": 24, "height": 40 },
+      "Ergonomic Chair": { "width": 26, "depth": 26, "height": 42 },
+      "Executive Chair": { "width": 28, "depth": 28, "height": 45 },
+      "Guest / Side Chair": { "width": 20, "depth": 20, "height": 36 },
+      "Drafting Chair / Stool": { "width": 20, "depth": 20, "height": 44 }
+    },
+    "Bookshelf / Storage": {
+      "Standard Bookshelf": { "width": 33, "depth": 12, "height": 72 },
+      "Corner Bookshelf": { "width": 27, "depth": 27, "height": 72 },
+      "Ladder Shelf": { "width": 24, "depth": 12, "height": 66 },
+      "Cube Storage / Modular Shelf": { "width": 12, "depth": 12, "height": 42 }
+    },
+    "File Cabinet / Drawer Unit": {
+      "2-Drawer File Cabinet": { "width": 16.5, "depth": 24, "height": 28 },
+      "3-Drawer Vertical Cabinet": { "width": 18, "depth": 24, "height": 36 },
+      "Mobile / Rolling Drawer": { "width": 16.5, "depth": 21, "height": 26 },
+      "Lateral File Cabinet": { "width": 33, "depth": 18, "height": 29 }
+    },
+    "Floating Wall Shelf": {
+      "Single Shelf": { "width": 36, "depth": 10, "height": 6 },
+      "Multi-tier Shelf": { "width": 48, "depth": 12, "height": 12 },
+      "Corner Shelf": { "width": 18, "depth": 18, "height": 12 },
+      "Long Floating Shelf": { "width": 60, "depth": 11, "height": 7 }
+    }
+  },
+
+  "Guest Bedroom Furniture": {
+    "Bed": {
+      "Full / Double Bed": { "width": 54, "depth": 75, "height": 25 },
+      "Queen Bed": { "width": 60, "depth": 80, "height": 25 },
+      "Twin Beds (pair)": { "width": 38, "depth": 75, "height": 25 },
+      "Daybed / Trundle Bed": { "width": 39, "depth": 75, "height": 25 }
+    },
+    "Nightstand / Bedside Table": {
+      "Standard Nightstand": { "width": 18, "depth": 18, "height": 24 },
+      "Drawer Nightstand": { "width": 20, "depth": 18, "height": 24 },
+      "Floating Wall-mounted": { "width": 24, "depth": 12, "height": 20 }
+    },
+    "Dresser / Chest of Drawers": {
+      "Standard 4-Drawer Dresser": { "width": 60, "depth": 20, "height": 34 },
+      "Tallboy / High Chest": { "width": 36, "depth": 18, "height": 60 },
+      "Low Dresser / Wide": { "width": 72, "depth": 20, "height": 30 }
+    },
+    "Wardrobe / Closet": {
+      "2-Door Wardrobe": { "width": 36, "depth": 20, "height": 72 },
+      "3-Door Wardrobe": { "width": 54, "depth": 20, "height": 72 }
+    },
+    "Wall Mirror": {
+      "Full-length Mirror": { "width": 30, "depth": 2, "height": 60 },
+      "Wall-mounted Mirror": { "width": 24, "depth": 1, "height": 36 }
+    },
+    "Seating": {
+      "Accent Chair": { "width": 33, "depth": 33, "height": 33 },
+      "Bench / Storage Chest": { "width": 48, "depth": 18, "height": 19 }
+    },
+    "Desk / Vanity (Optional)": {
+      "Compact Desk": { "width": 36, "depth": 18, "height": 30 },
+      "Vanity / Dressing Table": { "width": 54, "depth": 19, "height": 30 }
+    },
+    "Lighting": {
+      "Table Lamp": { "width": 12, "depth": 12, "height": 27 },
+      "Floor Lamp": { "width": 18, "depth": 18, "height": 66 }
+    },
+    "Storage & Decor": {
+      "Floating Wall Shelf": { "width": 36, "depth": 10, "height": 6 },
+      "Rug / Carpet": { "width": 60, "depth": 96, "height": 0.5 },
+      "Wall Art / Frame": { "width": 21, "depth": 1, "height": 30 }
+    }
+  },
+
+  "Balcony Furniture": {
+    "Balcony Chair": {
+      "Folding Chair": { "width": 24, "depth": 24, "height": 36 },
+      "Plastic / Resin Chair": { "width": 24, "depth": 24, "height": 36 },
+      "Outdoor Armchair": { "width": 30, "depth": 30, "height": 36 },
+      "Stackable Chair": { "width": 24, "depth": 24, "height": 36 }
+    },
+    "Small Table / Side Table": {
+      "Square Coffee Table": { "width": 24, "depth": 24, "height": 24 },
+      "Round Table": { "width": 24, "depth": 24, "height": 24 },
+      "Folding Table": { "width": 24, "depth": 24, "height": 24 },
+      "Side Table with Storage": { "width": 24, "depth": 24, "height": 24 }
+    },
+    "Outdoor Sofa / Lounge": {
+      "2-Seater Outdoor Sofa": { "width": 60, "depth": 30, "height": 30 },
+      "3-Seater Outdoor Sofa": { "width": 72, "depth": 36, "height": 30 },
+      "Sectional / L-Shaped Outdoor Sofa": { "width": 80, "depth": 36, "height": 30 },
+      "Chaise Lounge": { "width": 72, "depth": 30, "height": 30 }
+    },
+    "Swing Chair / Hammock": {
+      "Hanging Swing Chair": { "width": 40, "depth": 35, "height": 70 },
+      "Hammock": { "width": 70, "depth": 33, "height": 30 },
+      "Hanging Egg Chair": { "width": 35, "depth": 35, "height": 65 },
+      "Rope or Macrame Swing": { "width": 36, "depth": 36, "height": 70 }
+    },
+    "Planter Rack / Shelf": {
+      "Single-tier Planter Shelf": { "width": 36, "depth": 12, "height": 36 },
+      "Multi-tier Planter Rack": { "width": 36, "depth": 12, "height": 48 },
+      "Hanging Shelf": { "width": 30, "depth": 11, "height": 6 },
+      "Corner Plant Stand": { "width": 24, "depth": 24, "height": 36 }
+    }
+  },
+
+  "Kids Room Furniture": {
+    "Bed": {
+      "Twin / Single Bed": { "width": 38, "depth": 75, "height": 25 },
+      "Twin XL": { "width": 38, "depth": 80, "height": 25 },
+      "Bunk Bed": { "width": 38, "depth": 75, "height": 65 },
+      "Loft Bed": { "width": 38, "depth": 75, "height": 72 },
+      "Trundle Bed": { "width": 39, "depth": 75, "height": 25 }
+    },
+    "Desk / Study Table": {
+      "Standard Kids Desk": { "width": 36, "depth": 18, "height": 30 },
+      "Adjustable Desk": { "width": 42, "depth": 21, "height": 30 },
+      "Corner Desk": { "width": 48, "depth": 24, "height": 30 },
+      "Standing / Drafting Desk": { "width": 36, "depth": 18, "height": 38 }
+    },
+    "Chair / Seating": {
+      "Standard Kids Chair": { "width": 14, "depth": 14, "height": 24 },
+      "Adjustable Chair": { "width": 16, "depth": 16, "height": 30 },
+      "Bean Bag / Floor Cushion": { "width": 30, "depth": 30, "height": 24 },
+      "Rocking Chair": { "width": 24, "depth": 24, "height": 28 }
+    },
+    "Storage / Shelving": {
+      "Toy Chest / Storage Box": { "width": 36, "depth": 18, "height": 18 },
+      "Bookshelf": { "width": 24, "depth": 12, "height": 48 },
+      "Cube Organizer": { "width": 12, "depth": 12, "height": 42 },
+      "Closet / Wardrobe": { "width": 36, "depth": 20, "height": 72 }
+    },
+    "Additional / Accessories": {
+      "Nightstand / Bedside Table": { "width": 18, "depth": 18, "height": 24 },
+      "Play Table": { "width": 30, "depth": 30, "height": 21 },
+      "Wall-mounted Shelf": { "width": 24, "depth": 9, "height": 6 },
+      "Rug / Play Mat": { "width": 60, "depth": 84, "height": 0.5 }
+    }
+  },
+
+  "Study Room Furniture": {
+    "Desk / Study Table": {
+      "Standard Desk": { "width": 48, "depth": 24, "height": 30 },
+      "L-Shaped Desk": { "width": 66, "depth": 48, "height": 30 },
+      "Adjustable Desk": { "width": 42, "depth": 21, "height": 30 },
+      "Standing Desk": { "width": 48, "depth": 24, "height": 38 }
+    },
+    "Chair": {
+      "Standard Office Chair": { "width": 24, "depth": 24, "height": 40 },
+      "Ergonomic Chair": { "width": 26, "depth": 26, "height": 42 },
+      "Guest / Side Chair": { "width": 20, "depth": 20, "height": 36 },
+      "Drafting Chair / Stool": { "width": 20, "depth": 20, "height": 44 }
+    },
+    "Storage / Shelving": {
+      "Bookshelf": { "width": 33, "depth": 12, "height": 72 },
+      "Wall-mounted Floating Shelf": { "width": 36, "depth": 10, "height": 6 },
+      "File Cabinet / Drawer": { "width": 18, "depth": 24, "height": 28 },
+      "Cube / Modular Shelf": { "width": 12, "depth": 12, "height": 42 }
+    },
+    "Accessories": {
+      "Desk Lamp": { "width": 10, "depth": 10, "height": 21 },
+      "Pinboard / Whiteboard": { "width": 24, "depth": 1, "height": 36 },
+      "Chair Mat": { "width": 36, "depth": 48, "height": 0.2 }
+    }
+  }
+}
