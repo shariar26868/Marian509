@@ -1,14 +1,23 @@
-# ai_backend/services/ai_generator.py - FULL REPLACE
+# ai_backend/services/ai_generator.py - FIXED VERSION
 
 import replicate
 import os
 import tempfile
 import requests
 import logging
+from dotenv import load_dotenv
+
+# Load environment variables
+load_dotenv()
 
 logger = logging.getLogger(__name__)
 
-os.environ["REPLICATE_API_TOKEN"] = os.getenv("REPLICATE_API_TOKEN")
+# Validate token exists
+REPLICATE_API_TOKEN = os.getenv("REPLICATE_API_TOKEN")
+if not REPLICATE_API_TOKEN:
+    logger.error("❌ REPLICATE_API_TOKEN not found in .env file!")
+    logger.info("Add this line to your .env file:")
+    logger.info("REPLICATE_API_TOKEN=your_token_here")
 
 
 def generate_room_image(
@@ -29,6 +38,10 @@ def generate_room_image(
     Returns:
         Path to generated image file
     """
+    
+    # Check if token exists
+    if not REPLICATE_API_TOKEN:
+        raise Exception("REPLICATE_API_TOKEN not configured. Check your .env file.")
     
     # Save room image to temp file
     with tempfile.NamedTemporaryFile(suffix=".jpg", delete=False) as temp_room:
